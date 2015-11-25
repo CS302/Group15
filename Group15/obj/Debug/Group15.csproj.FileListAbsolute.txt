@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Group15\Group15\bin\Debug\Group15.exe.config
+C:\Users\Alex\Desktop\Group15\Group15\bin\Debug\Group15.exe
+C:\Users\Alex\Desktop\Group15\Group15\bin\Debug\Group15.pdb
+C:\Users\Alex\Desktop\Group15\Group15\obj\Debug\Group15.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Group15\Group15\obj\Debug\Group15.exe
+C:\Users\Alex\Desktop\Group15\Group15\obj\Debug\Group15.pdb
