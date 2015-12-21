@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\GitHub\Group15\Lesson7\bin\Debug\Lesson7.exe.config
+C:\Users\Alex\Documents\GitHub\Group15\Lesson7\bin\Debug\Lesson7.exe
+C:\Users\Alex\Documents\GitHub\Group15\Lesson7\bin\Debug\Lesson7.pdb
+C:\Users\Alex\Documents\GitHub\Group15\Lesson7\obj\Debug\Lesson7.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Group15\Lesson7\obj\Debug\Lesson7.exe
+C:\Users\Alex\Documents\GitHub\Group15\Lesson7\obj\Debug\Lesson7.pdb
