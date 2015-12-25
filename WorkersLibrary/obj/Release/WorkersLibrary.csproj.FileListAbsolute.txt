@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\GitHub\Group15\WorkersLibrary\bin\Release\WorkersLibrary.dll
+C:\Users\Alex\Documents\GitHub\Group15\WorkersLibrary\bin\Release\WorkersLibrary.pdb
+C:\Users\Alex\Documents\GitHub\Group15\WorkersLibrary\obj\Release\WorkersLibrary.dll
+C:\Users\Alex\Documents\GitHub\Group15\WorkersLibrary\obj\Release\WorkersLibrary.pdb

@@ -5,11 +5,19 @@ namespace WorkersLibrary
     [Serializable]
     public abstract class Worker
     {
+        #region Поля
+
         private string name; //поле
         private int age;     //поле
-        public int snn;     //поле
+        private int snn;     //поле
+
+        
         public static int count;
         protected double salary;
+
+        #endregion
+
+        #region Свойства
         public int Age      //свойство
         {
             set
@@ -30,6 +38,14 @@ namespace WorkersLibrary
             get { return name; }
         }
 
+        public int Snn
+        {
+            get { return snn; }
+            set { snn = value; }
+        }
+        #endregion
+
+        #region Методы
         public abstract double GetBonus();
 
         public virtual void Print() //метод
@@ -46,7 +62,10 @@ namespace WorkersLibrary
                 workers[i].Print();
             }
         }
+        
+        #endregion
 
+        #region Конструкторы
         public Worker(string name, int age, int snn) //параметризованный конструктор
         {
             this.name = name;
@@ -66,7 +85,8 @@ namespace WorkersLibrary
         static Worker()
         {
             count = 0;
-        }
+        } 
+        #endregion
 
 
 

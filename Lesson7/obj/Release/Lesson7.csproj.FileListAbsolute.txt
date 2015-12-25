@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\GitHub\Group15\Lesson7\bin\Release\Lesson7.exe.config
+C:\Users\Alex\Documents\GitHub\Group15\Lesson7\bin\Release\Lesson7.exe
+C:\Users\Alex\Documents\GitHub\Group15\Lesson7\bin\Release\Lesson7.pdb
+C:\Users\Alex\Documents\GitHub\Group15\Lesson7\obj\Release\Lesson7.exe
+C:\Users\Alex\Documents\GitHub\Group15\Lesson7\obj\Release\Lesson7.pdb

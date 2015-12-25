@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\GitHub\Group15\Group15\bin\Release\Group15.exe.config
+C:\Users\Alex\Documents\GitHub\Group15\Group15\bin\Release\Group15.exe
+C:\Users\Alex\Documents\GitHub\Group15\Group15\bin\Release\Group15.pdb
+C:\Users\Alex\Documents\GitHub\Group15\Group15\obj\Release\Lesson1.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Group15\Group15\obj\Release\Group15.exe
+C:\Users\Alex\Documents\GitHub\Group15\Group15\obj\Release\Group15.pdb

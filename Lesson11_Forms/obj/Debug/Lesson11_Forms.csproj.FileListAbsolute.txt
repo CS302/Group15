@@ -1,0 +1,9 @@
+C:\Users\Alex\Documents\GitHub\Group15\Lesson11_Forms\bin\Debug\Lesson11_Forms.exe.config
+C:\Users\Alex\Documents\GitHub\Group15\Lesson11_Forms\bin\Debug\Lesson11_Forms.exe
+C:\Users\Alex\Documents\GitHub\Group15\Lesson11_Forms\bin\Debug\Lesson11_Forms.pdb
+C:\Users\Alex\Documents\GitHub\Group15\Lesson11_Forms\obj\Debug\Lesson11_Forms.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Group15\Lesson11_Forms\obj\Debug\Lesson11_Forms.Form1.resources
+C:\Users\Alex\Documents\GitHub\Group15\Lesson11_Forms\obj\Debug\Lesson11_Forms.Properties.Resources.resources
+C:\Users\Alex\Documents\GitHub\Group15\Lesson11_Forms\obj\Debug\Lesson11_Forms.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\GitHub\Group15\Lesson11_Forms\obj\Debug\Lesson11_Forms.exe
+C:\Users\Alex\Documents\GitHub\Group15\Lesson11_Forms\obj\Debug\Lesson11_Forms.pdb

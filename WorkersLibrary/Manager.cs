@@ -5,7 +5,13 @@ namespace WorkersLibrary
     [Serializable]
     public sealed class Manager : Worker, IPayTax
     {
-        public int projCount;
+        private int projCount;
+
+        public int ProjCount
+        {
+            get { return projCount; }
+            set { projCount = value; }
+        }
 
         public Manager(string name, int age, int snn, int projCount)
             : base(name, age, snn)

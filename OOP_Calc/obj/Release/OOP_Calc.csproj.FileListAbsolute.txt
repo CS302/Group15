@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\GitHub\Group15\OOP_Calc\bin\Release\OOP_Calc.exe.config
+C:\Users\Alex\Documents\GitHub\Group15\OOP_Calc\bin\Release\OOP_Calc.exe
+C:\Users\Alex\Documents\GitHub\Group15\OOP_Calc\bin\Release\OOP_Calc.pdb
+C:\Users\Alex\Documents\GitHub\Group15\OOP_Calc\obj\Release\OOP_Calc.exe
+C:\Users\Alex\Documents\GitHub\Group15\OOP_Calc\obj\Release\OOP_Calc.pdb
